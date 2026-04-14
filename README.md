@@ -139,3 +139,6 @@ Fabio Santos
 Profissional de Tecnologia da Informação  
 Foco em Operações de Rede (NOC)
 ``
+---
+Este projeto foi desenvolvido como estudo conceitual, com texto autoral, sem uso de comandos ou execução prática de ataques, focando em entendimento, mitigação e visão operacional.
+---
