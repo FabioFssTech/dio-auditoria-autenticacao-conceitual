@@ -1,4 +1,4 @@
-# 🧪 Estudo Conceitual — Auditoria de Autenticação com Kali Linux e Medusa (DIO)
+# 🧪 Estudo Conceitual Auditoria de Autenticação com Kali Linux e Medusa (DIO)
 
 > ⚠️ **Aviso Ético**
 > Este projeto é **estritamente educacional** e foi desenvolvido como **documentação conceitual**, sem execução prática de ataques.
